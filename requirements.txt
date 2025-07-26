@@ -1,0 +1,6 @@
+pdfminer.six
+numpy
+scikit-learn
+# If you choose to use sentence-transformers for Round 1B (and it fits the 1GB model size constraint):
+# sentence-transformers
+# torch # sentence-transformers depends on PyTorch
